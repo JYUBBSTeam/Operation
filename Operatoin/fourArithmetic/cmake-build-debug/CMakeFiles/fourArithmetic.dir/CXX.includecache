@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/project/YunSuan/Operation/Operatoin/fourArithmetic/operation/fourArithmedic.cpp
+iostream
+-
+string
+-
+cmath
+-
+fourArithmedic.h
+/cygdrive/e/project/YunSuan/Operation/Operatoin/fourArithmetic/operation/fourArithmedic.h
+
+/cygdrive/e/project/YunSuan/Operation/Operatoin/fourArithmetic/operation/fourArithmedic.h
+iostream
+-
+string
+-
+

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/fourArithmetic.dir/main.cpp.o CMakeFiles/fourArithmetic.dir/operation/fourArithmedic.cpp.o  -o fourArithmetic.exe -Wl,--out-implib,libfourArithmetic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
